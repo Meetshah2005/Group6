@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-=======
-# Group6
-Meet Shah and Vladimir
+An application that allows to sum two integers.
 
-Takes a user inputed number and then takes another user inputed number and adds them to give the reader the total.
->>>>>>> c85d284d670bc0c58e40be731aefd7b40d298b6f
+Programm.py is a simple programm allowing a user to input two integers and get a sum of them. Programm.py starts interacting with a user by prompting them to enter the value of the first integer following by the prompt for the second integer. User is allowed to input negetive integers in Programm.py.
+
+Programm.py requires some kind of IDE or an interactive notebook(such as Jupyter) in order to run. Programm.py is written using the python programming language. 
